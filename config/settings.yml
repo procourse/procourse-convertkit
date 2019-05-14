@@ -1,0 +1,10 @@
+plugins:
+  procourse_convertkit_enabled:
+    default: false
+    client: false
+  procourse_convertkit_api_key:
+    default: ""
+    client: false
+  procourse_convertkit_form_id:
+    default: ""
+    client: false

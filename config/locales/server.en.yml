@@ -1,0 +1,5 @@
+en:
+  site_settings:
+    procourse_convertkit_enabled: "Subscribe new users to ConvertKit on Sign Up?"
+    procourse_convertkit_api_key: "ConvertKit API Key"
+    procourse_convertkit_form_id: "ConvertKit Form ID that users will be subscribed to"
