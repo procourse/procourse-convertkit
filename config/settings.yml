@@ -8,3 +8,12 @@ plugins:
   procourse_convertkit_form_id:
     default: ""
     client: false
+  procourse_convertkit_add_group:
+    default: false
+    client: false
+  procourse_convertkit_group:
+    default: ""
+    client: false
+  procourse_convertkit_tag:
+    default: ""
+    client: false
