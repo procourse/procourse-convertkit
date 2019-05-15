@@ -3,3 +3,6 @@ en:
     procourse_convertkit_enabled: "Subscribe new users to ConvertKit on Sign Up?"
     procourse_convertkit_api_key: "ConvertKit API Key"
     procourse_convertkit_form_id: "ConvertKit Form ID that users will be subscribed to"
+    procourse_convertkit_add_group: "Add ConvertKit subscribers to a group on sign up?"
+    procourse_convertkit_group: "The ID of the group to which users should be added if the tag is found"
+    procourse_convertkit_tag: "The name of the tag in ConvertKit that triggers the addition to the group"
